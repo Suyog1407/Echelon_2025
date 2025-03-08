@@ -1,0 +1,17 @@
+fastapi>=0.115.0
+uvicorn>=0.24.0
+python-jose>=3.3.0
+passlib>=1.7.4
+python-multipart>=0.0.6
+sqlalchemy>=2.0.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+nltk==3.6.3
+requests>=2.31.0
+python-dotenv>=1.0.0
+beautifulsoup4==4.9.3
+numpy>=1.26.0
+tensorflow>=2.16.1
+transformers>=4.11.0
+python3-linkedin==1.0.2
+pymongo==3.12.0 
